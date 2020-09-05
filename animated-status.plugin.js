@@ -1,4 +1,4 @@
-//META{"name":"AnimatedStatus by ALERKOPYT","source":"https://github.com/ALERKOPYT/BDPLUGINS/animated-status.plugin.js","website":"https://github.com/ALERKOPYT/BDPLUGINS/"}*//
+//META{"name":"AnimatedStatus by ALERKOPYT","source":"https://github.com/ALERKOPYT1337/DBPLUGINS/blob/master/animated-status.plugin.js","website":"https://github.com/ALERKOPYT1337/BDPLUGINS/"}*//
 
 class AnimatedStatus {
 	/* BD functions */
